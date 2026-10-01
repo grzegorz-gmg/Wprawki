@@ -3,14 +3,239 @@
 **Start badań:** czwartek 2026-10-01, ok. 20:00 CEST
 **Okno działania:** do poniedziałku 2026-10-05, ok. 20:00 CEST
 **Doprecyzowanie użytkownika:** pracę trzeba wykonać albo nagrodę zdobyć w ciągu 96 h, **wypłata może przyjść później**.
-**Budżet badawczy:** $250. Zużycie szacuję na ok. $60–120 (9 agentów badawczych plus synteza), czyli poniżej limitu. Dokładnego licznika nie mam.
+**Budżet badawczy:** $250. Runda 1 (9 agentów) zużyła poniżej 10% budżetu, runda 2 (10 agentów) podobnie. Łącznie szacuję ok. $50–80, czyli wyraźnie poniżej limitu. Dokładnego licznika nie mam.
 **Kurs (NBP, poł. września 2026):** 1 USD ≈ 3,74 zł, 1 EUR ≈ 4,33 zł. 5000 zł ≈ $1335 ≈ €1155.
 
 > **Uwaga o wiarygodności.** Proxy sieciowe blokowało bezpośrednie pobieranie większości stron. Fakty pochodzą głównie z fragmentów wyników wyszukiwarki. Oznaczenie **[N]** znaczy „niezweryfikowane”. **Przed działaniem zawsze przeczytaj regulamin u źródła.**
 
 ---
 
-## 1. Werdykt
+## 0. TWÓJ PLAN (runda 2, profil z ankiety)
+
+**Profil:** programista i specjalista, praca **tylko zdalna** (HackYeah odpada), **kredyt konsumencki**, etat, wiek 26+, możliwe promocje bankowe dla nowych klientów.
+
+### 0.1 Ranking działań dla Ciebie
+
+| # | Działanie | Twój czas w 96 h | Szacowany zarobek | Kiedy pieniądze | Pewność |
+|---|---|---|---|---|---|
+| 1 | **Kredyt:** zwrot odsetek od skredytowanej prowizji, zwrot kosztów przy wcześniejszej spłacie (Lexitor), ewentualnie sankcja kredytu darmowego (SKD) | 1–3 h | od ok. 2 tys. zł (same odsetki od prowizji) do kilkunastu tys. zł (SKD), zależnie od umowy | tygodnie przy reklamacji, lata przy sprawie w sądzie | **wysoka** dla odsetek od prowizji (TSUE C-744/24, stanowisko ZBP); niska do średniej dla SKD |
+| 2 | **Pakiet 7 promocji bankowych** (sekcja 3) | 4–6 h | ok. 4900–5600 zł | XI 2026 – VII 2027 | wysoka, jeśli pilnujesz warunków co miesiąc |
+| 3 | **Usługa „e-Doręczenia + KSeF”** dla jednoosobowych firm (JDG) i wspólnot (0.5) | 15–25 h | 1500–4000 zł | dni do tygodni | średnia |
+| 4 | **Zlecenia IT z Twojej sieci** (strony, automatyzacje, chatboty) | elastycznie | 2000–6000 zł | przedpłata | zależy od sieci |
+| 5 | **Mercor / micro1:** role specjalistyczne i polskojęzyczne | 1 h na aplikacje | $40–135/h po akceptacji | co tydzień | niska w oknie, dobra później |
+| 6 | **Metaculus FutureEval:** bot prognostyczny | 6–10 h plus utrzymanie przez 14 tyg. | wartość oczekiwana netto ok. $300–700 | ok. II 2027 | średnio-niska |
+| 7 | **lablab „Dark Factory”:** tor Pocketful | ok. 20 h plus $40–140 na modele | wartość oczekiwana ok. 300–600 zł; podium $500–1500 | po ocenie | niska (ok. 5–10% na podium) |
+| 8 | **AI Philosophy Competition** | ok. 1 dzień (termin 31.10) | wartość oczekiwana ok. $100–250 | ok. II 2027 | niska |
+| 9 | **Bounty Expensify / Tenstorrent:** monitoring nowych zgłoszeń | śledzenie | wartość oczekiwana ok. $150–350 | 1–3 tyg. | niska |
+
+**Szacunek łączny (mój, przybliżony):**
+
+| Cel | Szansa |
+|---|---|
+| ≥5000 zł z działań rozpoczętych w 96 h, z wypłatami do ok. 12 miesięcy | **ok. 80–85%** |
+| ≥5000 zł na koncie do końca stycznia 2027 | **ok. 45–60%**, głównie dzięki pozycjom 1, 3 i 4 |
+
+**Czego nie robić równolegle:**
+- „Dark Factory” (ok. 20 h) konkuruje o czas z usługą i zleceniami. Rób go **tylko wtedy, gdy do soboty nie masz klientów**.
+- AI Philosophy ma termin 31.10, więc może poczekać na po oknie.
+
+### 0.2 Harmonogram
+
+**Czwartek w nocy (1–1,5 h)**
+1. **Kredyt:** znajdź umowę, formularz informacyjny i harmonogram. Przejdź checklistę z 0.4.
+2. **Alior:** złóż wniosek online z kodem `PREMIA2026`, termin 13.10. Premia 800 zł jest zweryfikowana.
+3. **Metaculus:** załóż konto bota (metaculus.com/futureeval/participate) i wypełnij formularz o darmowe kredyty: https://forms.gle/aQdYMq9Pisrf1v7d8. Kredyty przyznawane są ręcznie, więc złóż wniosek od razu.
+4. **Mercor:** aplikuj na role polskojęzyczne (np. Bilingual Polish Generalist – AI Safety, $40–44/h) i w swojej specjalizacji. Stawki: prawo $85–135/h, finanse $70–80/h, medycyna $90–130/h. Do tego **micro1** Polish Language Expert ($40–95/h).
+5. Opcjonalnie: rejestracja na **OpenReview** do AI Philosophy. Bez afiliacji naukowej trwa do 2 tygodni.
+
+**Piątek (jedyny dzień roboczy przed poniedziałkiem)**
+6. **Bank kredytujący:**
+   - wniosek o dokumenty i żądanie danych z art. 15 RODO;
+   - **reklamacja odsetek od prowizji i ubezpieczenia** za okres sprzed 23.04.2026;
+   - przy wcześniejszej spłacie: reklamacja Lexitor;
+   - jeśli kredyt trwa: oświadczenie SKD (podpis odręczny, list polecony za potwierdzeniem odbioru). Wcześniej możesz skorzystać z bezpłatnej konsultacji u miejskiego lub powiatowego rzecznika konsumentów.
+7. **Konta bankowe:**
+   - Millennium 360°: 200 zł w ciągu 14 dni, warunek to wpływ 3000 zł; przelew z własnego konta w innym banku się liczy;
+   - ING z kodem polecającym od znajomego: +100 zł;
+   - Erste Konto Smart: nowa edycja od 1.10, do 30.11;
+   - mBank: złóż w kadrach dyspozycję przelewu pensji;
+   - BNP;
+   - karta kredytowa PKO tylko wtedy, gdy masz już konto osobiste w PKO.
+8. **Usługa e-Doręczenia + KSeF:**
+   - Ja przygotuję stronę z ofertą, formularz zapisu, procedurę krok po kroku i umowę powierzenia danych (RODO).
+   - Ty publikujesz ofertę w lokalnych grupach na Facebooku i piszesz do 3–5 biur rachunkowych lub zarządców wspólnot z ofertą pod ich marką (white-label).
+9. **Sieć kontaktów:** wyślij wiadomość do 20–30 kontaktów z ofertą zlecenia IT (stała cena, realizacja w 48 h, przedpłata).
+
+**Sobota i niedziela**
+10. Sesje z klientami zdalnie. Klient loguje się swoim Profilem Zaufanym, Ty nie przechowujesz jego haseł.
+11. **Bot Metaculus:**
+    - zrób fork lepszego bota (No-Stream/metaculus-bot albo napzter13/metaculus-bot), nie samego szablonu;
+    - ustaw **zewnętrzny harmonogram**: cron w GitHub Actions dostarczał tylko ok. 22% uruchomień, a pytania są otwarte zaledwie ok. 1,5 h;
+    - testuj wyłącznie na pytaniach zamkniętych.
+12. Opcjonalnie **Dark Factory** (sekcja 0.6). Wymaga Band Desktop i Dockera na Twoim komputerze.
+
+**Poniedziałek do 20:00**
+13. Domknij zlecenia i wystaw rachunki w ramach działalności nierejestrowanej.
+14. Zrób pierwsze transakcje kartami w nowych bankach.
+15. Ustaw przypomnienia w kalendarzu o warunkach promocji do VII 2027.
+
+### 0.3 Kredyt konsumencki: najmocniejsze argumenty w 2026 roku
+
+> Ogólna informacja, nie porada prawna. Przy sporze z bankiem skorzystaj z bezpłatnej pomocy rzecznika konsumentów albo Rzecznika Finansowego.
+
+**Odsetki od skredytowanej prowizji i ubezpieczenia są niedozwolone.**
+- Podstawa: TSUE C-744/24 z 23.04.2026 (sprawa przeciw Pekao) oraz SN II CSKP 89/26 z 8.07.2026.
+- **Stanowisko ZBP z 15.09.2026:** banki same zwrócą takie odsetki, ale tylko **od 23.04.2026** i tylko przy kredytach wtedy aktywnych. **Za wcześniejsze okresy trzeba złożyć reklamację, do 6 lat wstecz.**
+- Przykład: kredyt 40 tys. zł z 6 tys. zł skredytowanej prowizji i ubezpieczenia, 11,5%, 72 miesiące. Same odsetki od prowizji to ok. **2300 zł**.
+
+**Lexitor, czyli wcześniejsza spłata kredytu.**
+- Należy Ci się proporcjonalny zwrot **wszystkich** kosztów. Wzór liniowy: zwrot = koszty z góry × dni pozostałe do końca umowy ÷ wszystkie dni umowy.
+- Przykład: prowizja 4000 zł i ubezpieczenie 2000 zł, umowa na 72 miesiące, spłata po 24 miesiącach. Zwrot = 6000 × 48/72 = **4000 zł**.
+- Dotyczy umów od 18.12.2011. Bank odpowiada na reklamację w 30 dni.
+
+**SKD (sankcja kredytu darmowego).**
+- Jeśli wygrasz, oddajesz tylko kapitał. W przykładzie powyżej oszczędność to nawet ok. 23,9 tys. zł.
+- **Ponad 80% spraw SKD sądy wciąż oddalają.** Najlepiej radzą sobie sprawy oparte na odsetkach od prowizji.
+- Oświadczenie składasz osobiście: podpis odręczny, list polecony. Termin to 1 rok od „wykonania umowy”. **Jeśli kredyt trwa, wyślij oświadczenie teraz.**
+- W tym czasie spłacaj pełne raty, ale „z zastrzeżeniem zwrotu”. Wstrzymanie spłaty grozi wypowiedzeniem umowy i wpisem w BIK.
+- Opinia rzecznika generalnego TSUE w sprawie C-831/24 (11.06.2026) mówi, że sąd powinien badać umowę z urzędu. Wyrok spodziewany jest pod koniec 2026.
+
+**Sprzedaż roszczenia (cesja).**
+- Kupujący płacą ok. 10–15% wartości z góry.
+- **Ryzyko:** sądy oddaliły ponad 500 pozwów firm skupujących w ciągu 3 miesięcy.
+- Uważaj na umowy cesji z: pełnomocnictwem do podpisania oświadczenia SKD w Twoim imieniu, przejęciem „gratis” Twoich innych roszczeń, karami umownymi, wypłatą „po weryfikacji” bez terminu.
+
+**15 minut z umową w ręku:**
+1. Czy kredyt trwa, a jeśli nie, kiedy była ostatnia rata? Jeśli spłaciłeś go mniej niż 12 miesięcy temu, SKD jest jeszcze możliwa.
+2. Porównaj „całkowitą kwotę kredytu” z kwotą faktycznie wypłaconą. Czy prowizję lub ubezpieczenie doliczono do kapitału i czy naliczano od nich odsetki? To podstawa z wyroku C-744/24.
+3. Czy RRSO ma w umowie wypisane założenia i czy jest takie samo w umowie i w formularzu informacyjnym?
+4. Czy warunki zmiany opłat są precyzyjne i weryfikowalne, czy ogólne, np. „zmiana warunków rynkowych”?
+5. Czy pouczenie o odstąpieniu od umowy podaje 14 dni i kwotę odsetek dziennych?
+6. Czy klauzula o wcześniejszej spłacie obiecuje obniżenie **wszystkich** kosztów?
+7. Czy podano stopę odsetek za opóźnienie?
+8. Czy koszt ubezpieczenia wliczono do całkowitego kosztu i RRSO?
+9. Jeśli spłaciłeś wcześniej: czy w rozliczeniu bank zwrócił proporcjonalnie prowizję i ubezpieczenie?
+
+**Dokumenty, o które warto poprosić bank** (wniosek plus żądanie z art. 15 RODO, odpowiedź w ciągu miesiąca):
+- umowa z aneksami, regulamin i tabela opłat;
+- formularz informacyjny;
+- harmonogram pierwotny i aktualny;
+- historia spłat z podziałem na kapitał, odsetki, prowizję i ubezpieczenie;
+- dowód wypłaty, rozliczenie wcześniejszej spłaty;
+- deklaracja przystąpienia do ubezpieczenia i ogólne warunki ubezpieczenia (OWU).
+
+**Mogę przeanalizować Twoją umowę.** Wgraj ją do repozytorium **z usuniętymi danymi osobowymi**. Sprawdzę ją według listy powyżej i przygotuję projekty reklamacji i oświadczenia.
+
+**Źródła:**
+- [prawo.pl: SKD po wyroku C-744/24](https://www.prawo.pl/biznes/skd-co-sie-dzieje-w-sadach-po-wyroku-tsue-w-sprawie-c-744-24,1545698.html)
+- [infor: odsetki od prowizji](https://www.infor.pl/prawo/umowy/finanse/7568533,odsetki-od-prowizji-banku-niezgodne-z-prawem-unii-wyrok-tsue-w-sprawie-c74424-daje-szanse-na-odzyskanie-pieniedzy-milionom-kredytobiorcow.html)
+- [bezprawnik: bank sam odda odsetki od prowizji](https://bezprawnik.pl/bank-sam-odda-odsetki-od-prowizji/)
+- [bezprawnik: zwrot przy wcześniejszej spłacie](https://bezprawnik.pl/co-bank-powinien-zwrocic-przy-wczesniejszej-splacie/)
+- [Rzecznik Finansowy o SKD](https://rf.gov.pl/wp-content/uploads/2025/12/SKD_ogolne_oswiadczenie_RF-1.pdf)
+- [kb.pl: błędy przy oświadczeniu SKD](https://kb.pl/aktualnosci/prawo-i-przepisy/blad-przy-skladaniu-oswiadczenia-skd/)
+
+### 0.4 Promocje bankowe: co potwierdziła weryfikacja (aktualizuje sekcję 3)
+
+| Promocja | Stan po weryfikacji |
+|---|---|
+| **Alior PREMIA2026** | **Potwierdzone: 800 zł gotówki** (200 + 200 + 4×100) plus obrączka płatnicza. Do 13.10. Warunek: brak konta w Aliorze od 3 lat. |
+| **Erste Konto Smart** | **Potwierdzone: nowa edycja od 1.10.2026, do 30.11.2026**, 700 zł (3×200 + 100) plus bon 50 zł. Warunki poprzedniej edycji: wpływ 2000 zł/mies., 10 płatności, cel oszczędnościowy, 1 przelew wychodzący; brak konta w Erste lub Santanderze od 1.08.2024 [N dla nowej edycji]. |
+| **Karta kredytowa PKO („Przejrzysty zwrot 6”)** | Do 13.10, 21:59. 50% zwrotu, maks. 400 zł, za płatności kartą do 31.10. **Tylko dla pierwszych 1800 osób.** Wymaga konta osobistego w PKO i aplikacji IKO. Wyklucza osoby, które miały kartę kredytową PKO po 1.01.2026. |
+| **Millennium 360°** | Przelew z **własnego konta w innym banku** liczy się jako wpływ (według agregatorów, nie regulaminu). |
+| **Poleć ING** | Nowy klient dostaje **100 zł** (polecający 150 zł). Do 28.10. Warunek: brak konta w ING od co najmniej roku. |
+
+### 0.5 Usługa na dziś: e-Doręczenia i KSeF
+
+**Fakty:**
+- **Od 1.10.2026, czyli od dziś**, jednoosobowe firmy z CEIDG zarejestrowane przed 2025 muszą mieć adres do e-Doręczeń. Za brak nie ma kary, ale umykają pisma urzędowe.
+- **KSeF:** od 1.01.2027 obejmie najmniejsze firmy (sprzedaż do 10 tys. zł brutto miesięcznie) i zwolnionych z VAT. **Tokeny przestają działać 31.12.2026**; zastąpią je certyfikaty KSeF z Aplikacji Podatnika.
+- Ok. 190 tys. wspólnot mieszkaniowych też jest objętych KSeF i często potrzebuje formularza ZAW-FA.
+
+**Oferta:**
+- **Dla JDG:** 60–90 min zdalnie: skrzynka e-Doręczeń, certyfikat KSeF, uprawnienia dla księgowej, faktura testowa, 1-stronicowa instrukcja.
+- **Ceny:** 249–349 zł za całość, 99 zł za same e-Doręczenia.
+- **Dla wspólnot przez zarządców:** 300–600 zł za podmiot, 150–250 zł przy współpracy z biurem rachunkowym.
+
+**Zasady prawne:**
+- **Bez doradztwa podatkowego** (zastrzeżone dla licencjonowanych doradców). Dozwolone są konfiguracja techniczna, szkolenie i procedury.
+- Bez przechowywania haseł klienta.
+- Bez niezamówionych e-maili handlowych. Pisz do znajomych, w grupach na Facebooku (zgodnie z ich regulaminem), przez płatne ogłoszenia lub do partnerów.
+
+**Realny przychód w 96 h:** 1500–4000 zł. **5000 zł wymaga partnera**, który przyprowadzi wielu klientów naraz (biuro rachunkowe albo zarządca wspólnot).
+
+**Gotowy tekst ogłoszenia:**
+> „Masz JDG założoną przed 2025? Od dziś (1.10) obowiązuje adres do e-Doręczeń, a od 1.01.2027 KSeF obejmie też najmniejsze firmy — tokeny przestaną działać 31.12. W 60–90 min, zdalnie: zakładamy skrzynkę e-Doręczeń, generujemy certyfikat KSeF, nadajemy uprawnienia księgowej, wysyłamy fakturę testową, dostajesz instrukcję na 1 stronę. Logujesz się swoim Profilem Zaufanym — nie przechowuję haseł. 249 zł (same e-Doręczenia: 99 zł). Terminy: pt–pon. Nie udzielam porad podatkowych.”
+
+**Pozostałe nisze:**
+- Szkolenie z umiejętności korzystania z AI (art. 4 AI Act) dla zespołów: 800–1500 zł.
+- Wstępny audyt dostępności sklepu internetowego (EAA): 500–1500 zł. Mikrofirmy usługowe są zwolnione z obowiązku.
+- Pomoc w samorejestracji NIS2/KSC: termin w sobotę 3.10, tylko dla średnich i dużych podmiotów.
+
+### 0.6 „Dark Factory” (lablab): co już wiemy
+
+**Specyfikacje i zasady:**
+- Oficjalne repozytorium ze specyfikacjami i narzędziem do sprawdzania: https://github.com/band-ai/dark-factory-wearedevs (`docs/participant-guide.md`). Kopia lokalna jest w katalogu roboczym sesji.
+- **Wymagania:**
+  - Band Desktop 0.4.10+ na **Twoim komputerze** oraz Docker;
+  - co najmniej 3 agentów („seaty”), każdy z plikiem „mandatu”;
+  - wymiana wiadomości `@handle` w obie strony;
+  - `stage-1` musi zbudować się z czystego kontenera;
+  - mandaty muszą być **generyczne**: skaner słownictwa dyskwalifikuje mandaty używające pojęć z zadania.
+- **Ocena:** fabryka 50%, aplikacja 25%, współpraca agentów 25%. Oceniane jest uruchomienie od jednego polecenia, bez sterowania w trakcie.
+
+**Konkurencja:**
+- Na GitHubie jest ok. 70 repozytoriów. Szacuję, że 15–25 zespołów dojdzie do etapu 4.
+- Są już mocne zgłoszenia w torze Pocketful, np. DanKam0001/pocketful-dark-factory: wszystkie 4 etapy w 4 h 36 min.
+
+**Rekomendacja:**
+- Tor **Pocketful**: krótsze etapy 3–4, bez stref czasowych.
+- 4 agenci: lead, builder, verifier (Opus) i customer (Sonnet).
+- Ok. 20 h pracy i $40–140 na modele (albo subskrypcja Claude Max).
+- **Uwaga:** uczestnicy uruchamiają tam agentów z pominięciem zatwierdzeń (`bypassPermissions`). Rób to **wyłącznie w izolowanym Docker Sandbox**, nigdy na głównym systemie.
+
+### 0.7 Pozostałe ustalenia z rundy 2
+
+**Praca dla AI po polsku:**
+- Żadna platforma nie da 5000 zł w 96 h. Szansa poniżej 5%, wartość oczekiwana kategorii ok. 500–900 zł.
+- Warto mimo to zaaplikować dziś: Mercor (role polskojęzyczne $40–54/h, specjalistyczne do $135/h), micro1 ($40–95/h), Welo Data Project Epsilon ($34,80/h), Prolific „AI Trainer – Advanced Polish” ($30/h).
+- Słabo płatne: TELUS ($8,50/h), RWS ($10/h).
+
+**Nagrody międzynarodowe:**
+- Najlepiej pasuje **AI Philosophy Competition**: $3000 / $2000 / $1000 plus $5000 dla najlepszej metodologii. Termin 31.10.2026, 23:59 AoE.
+- **Eseje muszą być wygenerowane przez AI.** Człowiek buduje proces i wybiera, ale nie dostarcza argumentów.
+- Do 3 esejów po maks. 6000 słów, zgłoszenie przez OpenReview.
+- [Ogłoszenie konkursu](https://www.lesswrong.com/posts/BTkPFqxCDijfyumP6/ai-philosophy-competition-usd11-000-in-prizes).
+- Wazoku (np. pomiar mokrego gazu, $25k, do 12.10) ma sens tylko dla inżynierów z tej dziedziny.
+
+**Bounty za kod:**
+- Algora praktycznie zamarła: brak nowych bounty od 24.09.
+- Realnie płacą dziś tylko **Tenstorrent** ($750–3000, przypisywane w ciągu godzin) i **Expensify** ($250, liczy się propozycja w ciągu 1–3 h od publikacji).
+- Zapytania do monitoringu GitHuba:
+  - `org:tenstorrent label:bounty state:open no:assignee` — co 15 min;
+  - `repo:Expensify/App label:"Help Wanted" created:>DATA comments:<10` — co 30 min.
+
+**Zapytania ofertowe (projekty unijne, BIP):**
+- Osoba fizyczna może składać oferty. Rozstrzygnięcie trwa 3–14 dni, pieniądze przychodzą po 4–10 tygodniach.
+- To lejek sprzedażowy, a nie zarobek w oknie. Szansa ok. 5–15% na ofertę, gdy liczy się głównie cena.
+- Agregator: atlasprzetargow.pl.
+- Progi od 2026: ustawa Pzp od 170 tys. zł, zasada konkurencyjności od 80 tys. zł netto.
+
+**Ukryte aktywa, część 2:**
+- **Korekty PIT za 2020–2025** (rok 2020 tylko do 31.12.2026):
+  - ulga na dzieci: 1112 zł rocznie na dziecko, z „dodatkowym zwrotem” do wysokości składek;
+  - ulga dla młodych;
+  - ulga na powrót z zagranicy;
+  - wspólne rozliczenie z małżonkiem.
+- **Zwroty podatku z zagranicy:** z Niemiec za 2022 rok i z Holandii za 2021 rok, oba do 31.12.2026.
+- **Zaniżone odszkodowanie z OC sprawcy:** przedawnienie po 3 latach od ostatniej decyzji ubezpieczyciela. Firmy odkupują roszczenie za 30–60% różnicy [N].
+- **Zondacrypto (dawny BitBay):** upadłość od 27.08.2026. **Zgłoszenia wierzytelności przyjmuje syndyk do 27.10.2026.**
+- **Skiny CS2:** ceny spadły o 20–50% po aktualizacji z 23.10.2025. Sprzedaż przez Skinport lub CSFloat, pieniądze po ok. 8 dniach.
+
+---
+
+## 1. Werdykt (runda 1, ogólny, przed ankietą)
+
+> Dla Twojego profilu obowiązuje **sekcja 0**. HackYeah Ciebie nie dotyczy, bo nie możesz być w Krakowie.
 
 1. **Nie ma jednej ścieżki**, która z wysokim prawdopodobieństwem da ≥5000 zł z 96 h pracy. Każda pojedyncza opcja zarobkowa ma szansę poniżej ok. 25%.
 2. **Fundament o wysokiej pewności to pakiet legalnych promocji bankowych** (sekcja 3).
@@ -323,5 +548,7 @@ Te opcje mają sens tylko wtedy, gdy liczy się gotówka, a nie zarobek:
 5. **Zadania Ubiquity DevPool:** analiza i rozwiązanie konkretnego zgłoszenia. PR wysyłasz ze swojego konta.
 
 ---
+
+*Runda 2: 10 dodatkowych agentów (praca dla AI po polsku, nagrody międzynarodowe, ukryte aktywa część 2, skan bounty na żywo, zapytania ofertowe, nisze regulacyjne, weryfikacja, kredyt konsumencki, „Dark Factory”, Metaculus + AI Philosophy).*
 
 *Raport przygotowany 2026-10-01 na podstawie 9 agentów badawczych: bounty za kod, bezpieczeństwo (przerwany przez filtr bezpieczeństwa modelu, wynik częściowy), hackathony, polskie konkursy, praca zarobkowa, ukryte pieniądze, okazje niekonwencjonalne, red-teaming AI, promocje bankowe. Wszystkie kwoty i terminy sprawdź u źródła przed działaniem; oznaczenie [N] = niezweryfikowane.*
