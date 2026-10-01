@@ -3,20 +3,39 @@
 **Start badań:** czwartek 2026-10-01, ok. 20:00 CEST
 **Okno działania:** do poniedziałku 2026-10-05, ok. 20:00 CEST
 **Doprecyzowanie użytkownika:** pracę trzeba wykonać albo nagrodę zdobyć w ciągu 96 h, **wypłata może przyjść później**.
-**Budżet badawczy:** $250. Zużycie szacuję na ok. $70–90, czyli wyraźnie poniżej limitu.
+**Budżet badawczy:** $250. Zużycie szacuję na ok. $60–120 (9 agentów badawczych plus synteza), czyli poniżej limitu. Dokładnego licznika nie mam.
 **Kurs (NBP, poł. września 2026):** 1 USD ≈ 3,74 zł, 1 EUR ≈ 4,33 zł. 5000 zł ≈ $1335 ≈ €1155.
 
 > **Uwaga o wiarygodności.** Proxy sieciowe blokowało bezpośrednie pobieranie większości stron. Fakty pochodzą głównie z fragmentów wyników wyszukiwarki. Oznaczenie **[N]** znaczy „niezweryfikowane”. **Przed działaniem zawsze przeczytaj regulamin u źródła.**
 
 ---
 
-## 1. Werdykt w trzech zdaniach
+## 1. Werdykt
 
-1. **Nie ma jednej ścieżki**, która z wysokim prawdopodobieństwem da ≥5000 zł z 96 h pracy. Każda pojedyncza opcja „zarobkowa” ma szansę poniżej 25%.
-2. Najwyższą pewność daje **pakiet legalnych promocji bankowych**: konta zakładasz teraz, premie wpływają po 1–3 miesiącach (szczegóły w sekcji 3). Do tego dochodzą **zlecenia od własnej sieci kontaktów**, jeśli masz konkretną umiejętność.
-3. Najwyższy potencjał przy największej zmienności ma **HackYeah 2026** (Kraków, sob 3.10 – ndz 4.10), z wynikami jeszcze w oknie. Uzupełnieniem jest zdalny hackathon **lablab „Dark Factory”** z 1. nagrodą $1500, termin w poniedziałek.
+1. **Nie ma jednej ścieżki**, która z wysokim prawdopodobieństwem da ≥5000 zł z 96 h pracy. Każda pojedyncza opcja zarobkowa ma szansę poniżej ok. 25%.
+2. **Fundament o wysokiej pewności to pakiet legalnych promocji bankowych** (sekcja 3).
+   - Konta zakładasz w ciągu 96 h.
+   - Realnie daje to **3500–5200 zł**, ale wypłaty są **rozłożone na 6–12 miesięcy**: ok. 800 zł do końca listopada, ok. 2300 zł do końca stycznia.
+   - Warunek: nie masz kont w tych bankach od ok. 2022–2025, zależnie od banku.
+3. **Część aktywna**, czyli coś, co wykonujesz sam w 96 h. Wybierz według profilu:
+   - zlecenia z własnej sieci kontaktów: 2000–6000 zł;
+   - zadania Ubiquity DevPool: $75–225 za zadanie;
+   - zmiany przez Tikrow: 1000–1800 zł.
+4. **Zakłady o dużej stawce:**
+   - **HackYeah 2026**, Kraków, sob 3.10 – ndz 4.10, wyniki jeszcze w oknie: 4–15% szans na ≥5000 zł.
+   - **lablab „Dark Factory”**: 1. miejsce to $1500 ≈ 5600 zł, termin w poniedziałek.
 
-**Strategia: portfel kilku równoległych zakładów zamiast jednego.** Szczegółowy plan godzinowy jest w sekcji 2.
+**Moja szacunkowa szansa, że suma z działań rozpoczętych w 96 h przekroczy 5000 zł (z wypłatami do ok. 12 miesięcy):**
+
+| Profil | Szansa |
+|---|---|
+| Programista z siecią kontaktów | ok. 60–70% |
+| Specjalista lub ekspert | ok. 45–60% |
+| Generalista | ok. 40–55% |
+
+**Szansa, że 5000 zł będzie na koncie w ciągu 1–3 miesięcy, jest znacznie niższa: ok. 10–25%.** Gdyby gotówka była potrzebna szybko, zobacz sekcję 7.
+
+**Strategia: portfel równoległych zakładów zamiast jednego.** Plan godzinowy jest w sekcji 2.
 
 ---
 
@@ -27,7 +46,7 @@
    - Strona: https://hackyeah.pl/, bilety: https://eventory.cc/event/hackyeah-2026-cracow/tickets
    - Kody na darmowy lub charytatywny bilet: `ISSA50`, `MAMSTARTUP50`, `SJSI50` [N]
    - Przeczytaj regulamin: zasady używania AI i gotowego kodu, tabelę nagród na zadanie.
-2. **Promocje bankowe:** wybierz 4–6 kont z sekcji 3 i załóż je online. Każde zajmuje 15–30 min z weryfikacją przez selfie, mObywatel albo przelew weryfikacyjny. Uważaj na terminy (np. Alior do 13.10).
+2. **Promocje bankowe:** najpierw zweryfikuj w regulaminach, czy jesteś „nowym klientem”. Potem otwieraj online, w kolejności z sekcji 3c: **Alior (kod `PREMIA2026`) i karta kredytowa PKO** (oba do 13.10), Millennium 360° (do 27.10; 200 zł do zdobycia w 14 dni), ING z linku polecającego (do 28.10), mBank (do 30.11), BNP (do 13.11). Każde konto to 15–30 min z weryfikacją przez selfie, mObywatel albo przelew weryfikacyjny. Od razu dodaj karty do Google Pay lub Apple Pay i ustaw przypomnienia o warunkach miesięcznych.
 3. **Szybkie sprawdzenia w 15 min każde** (sekcja 6):
    - loty od 2.10.2025 (EU261);
    - wcześniej spłacone kredyty (Lexitor);
@@ -50,19 +69,137 @@
 
 ---
 
-## 3. Promocje bankowe: najpewniejsza droga do sumy ≥5000 zł
+## 3. Promocje bankowe: fundament o wysokiej pewności (wypłaty rozłożone na 6–12 miesięcy)
 
-> _(Sekcja uzupełniana wynikami osobnego agenta. Patrz niżej.)_
+Obowiązuje zasada **1 osoba = 1 premia**, zgodnie z regulaminem: bez fikcyjnych wpływów i bez kilku kont w jednym banku. Regulaminy nie były otwierane bezpośrednio, więc **przed założeniem konta przeczytaj regulamin**.
 
-Wstępne dane (październik 2026, [N]):
-- **Pekao:** do 2700 zł.
-- **Millennium 360°:** do 1000 zł, do 27.10.
-- **mBank eKonto:** ok. 1010 zł.
-- **BNP Paribas:** do 1000 zł.
-- **ING:** do 800 zł, do 28.10.
-- **Alior:** 800 zł + opaska płatnicza, kod `PREMIA2026`, do 13.10.
+### 3a. Konta osobiste (aktywne w październiku 2026)
 
-Premie wypłacane są zwykle do końca 2. pełnego miesiąca po spełnieniu warunków. Obowiązuje zasada: **1 osoba = 1 premia**, zgodnie z regulaminem.
+**1. ING „Konta pełne korzyści”** (wiek 26+)
+- **Premia:** 700 zł (plan Go: 100 + 6×100). **+100 zł** przy założeniu z linku „Polecam ING” od znajomego.
+- **Kto może:** osoby bez konta w ING od 1.05.2025. Wniosek tylko w aplikacji Moje ING.
+- **Warunki:**
+  - na start: wpływ ≥1000 zł spoza ING do 31.10, zgody marketingowe w 14 dni, ≥200 zł na koncie oszczędnościowym OKO;
+  - co miesiąc XI 2026 – IV 2027: wpływ 1000 zł, 5 płatności kartą lub BLIK, logowanie, ≥300 zł na OKO.
+- **Zapisy do:** **28.10**.
+- **Wypłata:** co miesiąc, do ok. V 2027.
+- Wiek 18–26: zamiast tego „Mobilni zyskują”, 800 zł (w tym 100 zł bonu do Żabki).
+
+**2. Millennium 360°**
+- **Premia:** 700 zł (200 + 5×100).
+- **Kto może:** osoby bez konta w Millennium od 1.01.2022.
+- **Warunki:**
+  - 200 zł w ciągu 14 dni: wpływy ≥3000 zł (wiek 18–25: ≥1500), 5 płatności telefonem w sklepach, BLIK na numer telefonu;
+  - potem przez 5 miesięcy: wpływ ≥3000 zł i **≥1000 zł płatności kartą** miesięcznie.
+- **Zapisy do:** **27.10** (albo do wyczerpania limitu 300 tys. kont).
+- **Wypłata:** od XI 2026 do ok. IV 2027.
+
+**3. mBank „Cała naprzód” edycja II** (eKonto, [regulamin](https://www.mbank.pl/pdf/promocje/konta/regulamin-promocji-cala-naprzod-zyskuj-z-kontem-w-mbanku-edycja-ii.pdf))
+- **Premia:** 910 zł (100 + 400 + 100 za założenie przez mObywatel lub selfie + **300 za wynagrodzenie**).
+- **Kto może:** osoby bez konta w mBanku od 1.01.2022 [N].
+- **Warunki:** 300 zł wymaga **pensji ≥2000 zł od pracodawcy** w 4 z 6 miesięcy. Przelewy własne się nie liczą.
+- **Zapisy do:** 30.11.
+- **Wypłata:** do VII 2027.
+
+**4. Alior Konto Plus, kod `PREMIA2026`**
+- **Premia:** reklamowane 800 zł, potwierdzone 600 (200 + 4×100), plus obrączka płatnicza (nie gotówka).
+- **Kto może:** osoby bez konta w Aliorze od 3 lat.
+- **Warunki co miesiąc:** ≥3 płatności kartą lub BLIK, przelew ≥1000 zł z innego banku, logowanie.
+- **Zapisy do:** **13.10** (albo do wyczerpania puli).
+- **Wypłata:** do I–IV 2027. Bank deklaruje zwolnienie z podatku.
+
+**5. BNP Paribas „Podróżnik z aplikacją 2”**
+- **Premia:** 1100 zł (12×75 + 200).
+- **Kto może:** osoby bez konta w BNP od 24 miesięcy.
+- **Warunki co miesiąc:** logowanie w GOmobile, **10 płatności kartą**, wpływ ≥1500 zł.
+- **Zapisy do:** 13.11.
+- **Wypłata:** przez 12 miesięcy.
+
+**6. Erste Konto Smart, edycja jesienna** [N, edycja do potwierdzenia]
+- **Premia:** 700 zł (3×200 + 100), plus 50 zł za polecenie.
+- **Warunki** (poprzednia edycja): wpływ 1500 zł, 5 płatności, 1 cel „Moje Cele” przez 3 miesiące.
+- **Wypłata:** szybka, ok. 3 miesiące.
+
+**Pekao Konto Przekorzystne:** edycja skończyła się 30.09.2026. Nowej nie potwierdzono.
+
+### 3b. Karty kredytowe (każdy wniosek to zapytanie w BIK)
+
+**PKO BP karta kredytowa**
+- **Premia:** 400 zł, czyli 50% wydatków (trzeba wydać 800 zł do 31.10).
+- **Wniosek do:** **13.10**.
+- **Wypłata:** **do 30.11.2026**. To najszybsza znaleziona wypłata.
+
+**Millennium Impresja**
+- **Premia:** 400 zł (10% wydatków, maks. 100 zł/mies. przez 4 miesiące).
+- **Wniosek do:** 15.11.
+
+**Erste World Mastercard**
+- **Premia:** 750 zł (12×50 za 1000 zł/mies. płatności online + 150 zł za utrzymanie karty 12 miesięcy).
+- **Wniosek do:** 30.10.
+
+### 3c. Pakiet (wiek 26+, zatrudnienie na umowę)
+
+**Kolejność:** najpierw **Alior** i **karta PKO** (termin 13.10), potem Millennium 360°, ING (z linku polecającego), mBank (przenieś tam pensję), BNP i Erste.
+
+| Promocja | Realnie |
+|---|---|
+| ING + polecenie | 800 |
+| Millennium 360° | 700 |
+| mBank (z pensją) | 900 (bez pensji 600) |
+| Alior | 600 |
+| Karta PKO | 400 |
+| BNP | 1100 (przez 12 miesięcy) |
+| Erste Smart [N] | 700 |
+| **Suma** | **ok. 5200** (bez Erste ok. 4500) |
+
+**Narastająco (szacunek):**
+
+| Do kiedy | Suma wypłat |
+|---|---|
+| koniec XI 2026 | ok. 800 zł |
+| koniec I 2027 | ok. 2300 zł |
+| koniec IV 2027 | ok. 4300–4700 zł |
+| VI–VII 2027 | ok. 5300–5800 zł |
+
+**Szansa na ≥5000 zł z samych premii:**
+
+| Termin | Szansa |
+|---|---|
+| do I 2027 | ok. 0–5% |
+| do IV 2027 | ok. 20% |
+| docelowo (z Erste, bez przegapionego miesiąca) | ok. 60–65% |
+| docelowo bez Erste | ok. 35–45% |
+
+**Logistyka:**
+- Wymagane wpływy to ok. 10 000 zł nominalnie miesięcznie. Pokrywa je jedna pula ok. 3000 zł przesyłana łańcuchem tego samego dnia: pensja → mBank → Millennium → ING / BNP / Erste / Alior → z powrotem. Każdy przelew musi przyjść z innego banku.
+- Przelewy własne **nie liczą się** w mBanku (300 zł za pensję). Millennium i BNP: sprawdź w regulaminie definicję „wpływu”.
+- Potrzeba ok. 35 transakcji kartą miesięcznie na wszystkich kartach. Millennium dodatkowo wymaga 1000 zł miesięcznie wydatków kartą. Karty kredytowe zakładaj tylko pod wydatki, które i tak robisz.
+
+**Ryzyka:**
+- **BIK:** wnioski o karty kredytowe obniżają scoring na ok. 12 miesięcy. Unikaj ich, jeśli planujesz kredyt hipoteczny.
+- **Opłaty:** konto jest darmowe tylko przy spełnieniu warunków. Kartę kredytową zawsze spłacaj w całości w okresie bezodsetkowym.
+- **Utrata transzy:** przegapiony miesiąc zwykle przepada. Ustaw przypomnienia w kalendarzu.
+- **Podatek:** pojedyncza premia do 2000 zł z tytułu „sprzedaży premiowej” jest zwolniona z PIT (art. 21 ust. 1 pkt 68). Nie dotyczy kont firmowych.
+- **Czas:** ok. 1 h na założenie konta, potem 1–2 h miesięcznie.
+
+**Polecenia:**
+- ING płaci 100 zł za każdą poleconą osobę, Pekao 100 zł (edycja [N]), Erste 50 zł.
+- Polecenie partnera lub znajomego jest legalne: jedna osoba poleca, druga jest nowym klientem.
+
+**Programy, które nic nie dają:**
+- **Maklerskie:** mBank eMakler (IKE/IKZE) skończył się 31.03.2026. XTB, BOSSA i DM BOŚ oferują tylko 0% prowizji, bez premii pieniężnych.
+- **Fintechy:** Revolut ma premie rzędu 100–175 zł, w praktyce z próbnym płatnym planem [N]. Wise i Zen nie mają nic.
+
+**Źródła:**
+- [zgarnijpremie (ranking, październik 2026)](https://zgarnijpremie.pl/ranking-promocji-bankowych/)
+- [kontomaniak: mBank](https://www.kontomaniak.pl/promocje/mbank/1010-zl-premii-z-ekontem-do-uslug-edycja-2)
+- [money.pl: ING](https://direct.money.pl/artykuly/porady/ing-daje-800-zl-za-konto-na-ten-wariant-trzeba-jednak-uwazac)
+- [totalmoney: Millennium](https://www.totalmoney.pl/artykuly/bank-millennium-700-zl-promocja-konta-millennium-360)
+- [telepolis: Alior](https://www.telepolis.pl/fintech/cashless/alior-bank-800-zl-premii-i-obraczka-platnicza)
+- [pepper: BNP](https://www.pepper.pl/promocje/premia-do-1100-zl-za-otwarcie-i-korzystanie-z-konta-otwartego-na-ciebie-at-bnp-paribas-1350726)
+- [pepper: karta PKO](https://www.pepper.pl/promocje/do-400-zl-premii-za-wyrobienie-karty-kredytowej-w-pko-bp-1351202)
+- [livesmarter: Erste (jesień 2026)](https://livesmarter.pl/700-zl-premii-erste-jesien-2026)
+- [podatki.biz: opodatkowanie premii](https://www.podatki.biz/artykuly/opodatkowanie-premii-zwroty-z-bankow-a-podatek-dochodowy_12_19914.htm)
 
 ---
 
@@ -187,4 +324,4 @@ Te opcje mają sens tylko wtedy, gdy liczy się gotówka, a nie zarobek:
 
 ---
 
-*Raport przygotowany na podstawie 9 przebiegów agentów badawczych. Surowe notatki przechowywane lokalnie w sesji.*
+*Raport przygotowany 2026-10-01 na podstawie 9 agentów badawczych: bounty za kod, bezpieczeństwo (przerwany przez filtr bezpieczeństwa modelu, wynik częściowy), hackathony, polskie konkursy, praca zarobkowa, ukryte pieniądze, okazje niekonwencjonalne, red-teaming AI, promocje bankowe. Wszystkie kwoty i terminy sprawdź u źródła przed działaniem; oznaczenie [N] = niezweryfikowane.*
